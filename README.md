@@ -28,7 +28,7 @@ RegisterNumber:  24900024
 ![image](https://github.com/user-attachments/assets/feaad1a6-81a5-411f-a95d-2939ce58a84c)
 ![image](https://github.com/user-attachments/assets/2cd36721-0d8a-4b0f-90bd-f961cebee1f4)
 ![image](https://github.com/user-attachments/assets/f20eeccb-a384-467a-bb07-0df14d434a88)
-![Uploading image.png…]()
+
 
 
 
