@@ -10,7 +10,7 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 1. Import the necessary libraries.
 2. Analyse and if needed preprocess the dataset.
-3. Assign the features dor the model.
+3. Assign the features for the model.
 4. Train, test and split the data.
 5. Implement the algorithm using LinearRegression().
 6. Test the model.
